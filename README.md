@@ -28,3 +28,14 @@ Finance-Dashboard/
 - **DAX (Data Analysis Expressions)**
 - **Excel** as data source
 
+## 🧩 Power BI Features Used
+
+- ✅ Custom **DAX Measures** for Total Income, Savings %, Expense %
+- ✅ **Dynamic Tooltips** to provide additional info on hover
+- ✅ **Slicers** for Year and Month to filter the entire report
+- ✅ **Line and Bar Charts** with conditional formatting
+- ✅ **Card Visuals** with ₹ currency formatting
+- ✅ **Data Model Relationships** for structured financial types
+- ✅ Interactive **Legend and Drill-through** features for deeper analysis
+
+
