@@ -20,7 +20,7 @@ Finance-Dashboard/
 
 ## 📷 Screenshot
 
-![Finance Dashboard Screenshot](./Screenshot(15).png)
+![Finance Dashboard Screenshot](./Screenshot (15).png)
 
 ## 🛠 Built With
 
